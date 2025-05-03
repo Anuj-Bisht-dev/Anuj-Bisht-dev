@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>👋 Hi, I’m Anuj Singh Bisht — it’s a pleasure to greet you!<br><br>I'm passionate about web development and always eager to dive into complex projects.<br><br>🌱 Currently, I'm learning more about web development — feel free to help me out, or reach out if you'd like some assistance too!<br><br>I'm always looking to connect with people who share similar interests, so feel free to send me a request — I’ll definitely respond!<br><br>⚡ Fun fact: I truly appreciate everyone who joins this platform — each of you brings something new and exciting to the community.</h1>
+👋 Hi, I’m Anuj Singh Bisht — it’s a pleasure to greet you!<br><br>I'm passionate about web development and always eager to dive into complex projects.<br><br>🌱 Currently, I'm learning more about web development — feel free to help me out, or reach out if you'd like some assistance too!<br><br>I'm always looking to connect with people who share similar interests, so feel free to send me a request — I’ll definitely respond!<br><br>⚡ Fun fact: I truly appreciate everyone who joins this platform — each of you brings something new and exciting to the community.
 <p>A passionate full stack developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -10,7 +10,6 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
 <h2>⚡️ Where to find me</h2>
