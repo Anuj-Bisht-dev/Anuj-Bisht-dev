@@ -4,7 +4,50 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>slide-up animation</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+}
+
+.wrapper>.content>ul {
+    list-style: none;
+    height: 3.8rem;
+    line-height: 3.8rem;
+    overflow: hidden;
+}
+
+.wrapper> .content> ul > li{
+    animation: slide-up 10s infinite;
+}
+
+@keyframes slide-up {
+    0%, 15% {
+        transform: translateY(0%);
+    }
+    20%, 30% {
+        transform: translateY(-100%);
+    }
+    35%, 50% {
+        transform: translateY(-200%);
+    }
+    55%, 65% {
+        transform: translateY(-300%);
+    }
+    70%, 85% {
+        transform: translateY(-400%);
+    }
+}
+
+.wrapper> .content> ul > li > span {
+    font-weight: 600;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(20deg, cyan, blue, magenta, red);
+    -webkit-background-clip: text;
+}
+</style>
 </head>
 <body>
     <div class="wrapper">
