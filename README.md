@@ -2,18 +2,6 @@
 -👋 Hi, I’m Anuj Singh Bisht — it’s a pleasure to greet you!<br><br>-I'm passionate about web development and always eager to dive into complex projects.<br><br>-🌱 Currently, I'm learning more about web development — feel free to help me out, or reach out if you'd like some assistance too!<br><br>-I'm always looking to connect with people who share similar interests, so feel free to send me a request — I’ll definitely respond!<br><br>-⚡ Fun fact: I truly appreciate everyone who joins this platform — each of you brings something new and exciting to the community.
 <p>A passionate for full-stack developer</p>
 
-<h1> I'm good in <h1>
-    <div class="wrapper">
-        <div class="content">
-            <ul>
-                <li><span>Web Developer</span></li>
-                <li><span>HTML, CSS, JAVASCRIPT</span></li>
-                <li><span>Eagerly Learner</span></li>
-                <li><span>C and PYTHON</span></li>
-                <li><span>Fond of Create New Projects</span></li>
-            </ul>
-        </div>
-    </div>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
