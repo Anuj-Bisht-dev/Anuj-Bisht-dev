@@ -1,5 +1,5 @@
 # 💫 About Me:
--👋 Hi, I’m Anuj Singh Bisht — it’s a pleasure to greet you!<br><br>-I'm passionate about web development and always eager to dive into complex projects.<br><br>-🌱 Currently, I'm learning more about web development — feel free to help me out, or reach out if you'd like some assistance too!<br><br>-I'm always looking to connect with people who share similar interests, so feel free to send me a request — I’ll definitely respond!<br><br>-⚡ Fun fact: I truly appreciate everyone who joins this platform — each of you brings something new and exciting to the community.
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br><b>Hi, I’m Anuj Singh Bisht</b> <br><br> - it’s a pleasure to greet you!<br><br>-I'm passionate about web development and always eager to dive into complex projects.<br><br>-🧠 Currently, I'm learning more about web development — feel free to help me out, or reach out if you'd like some assistance too!<br><br>-I'm always looking to connect with people who share similar interests, so feel free to send me a request — I’ll definitely respond!<br><br> -🖥️  You can Go-through my portfolio at [Here](http://github.com/Anuj-Bisht-dev/portfolio)<br><br>-⚡ Fun fact: I truly appreciate everyone who joins this platform — each of you brings something new and exciting to the community.
 <p>A passionate for full-stack developer</p>
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -10,12 +10,19 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a></p>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
+</p>
+
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/https://x.com/anuj_bisht_dev?t=u6EWBSk2tMaw2TUrf1hM4Q&s=09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/ anuj-singh-bisht-124574361" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/Anuj Sing Bisht" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/anuj_bisht_1/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anuj-Bisht-dev&show_icons=true&locale=en" alt="Anuj-Bisht-dev" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anuj-Bisht-dev&show_icons=true&locale=en&layout=compact" alt="Anuj-Bisht-dev" /></p>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Anuj-Bisht-dev"><img src="https://github-readme-stats.vercel.app/api?username=Anuj-Bisht-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anuj-Bisht-dev's GitHub stats" /></a>
+
+<a href="http://www.github.com/Anuj-Bisht-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-Bisht-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br><br>
+<a href="https://github.com/Anuj-Bisht-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Bisht-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anuj-Bisht-dev" alt="Anuj-Bisht-dev" /></a></p>
