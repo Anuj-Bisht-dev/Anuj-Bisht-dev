@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>slide-up animation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="content">
+            <ul>
+                <li><span>Web Developer</span></li>
+                <li><span>HTML, CSS, JAVASCRIPT</span></li>
+                <li><span>Eagerly Learner</span></li>
+                <li><span>C and PYTHON</span></li>
+                <li><span>Fond of Create New Projects</span></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
