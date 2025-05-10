@@ -5,11 +5,11 @@ $${\color{magenta}Hello,\space Everyone\space I\space am\space Anuj\space Singh\
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=30&duration=4000&pause=500&color=%23%239400d3&width=435&lines=Web+Developer;HTML%2C+CSS%2C++JAVASCRIPT;Eagerly+Learner;C+and+PYTHON;Fond+of+Create+New+Projects)](https://git.io/typing-svg)
 <p><em><pre>passionate for full-stack developer</pre></em></p> 
 - it’s a pleasure to greet you!<br><br>
--I'm passionate about web development and always eager to dive into complex projects.<erif+Text&size=30&duration=3000&pause=1000&color=00B7EBEB&width=435&lines=Web+Developer;HTML%2C+CSS%2C+JAVASCRIPT;Eagerly+Learner;C+and+PYTHON;Fond+of+Creating+New+Project)](https://git.io/typing-svg)br><br>
-  -🧠 Currently, I'm learning more about web development — feel free to help me out, or reach out if you'd like some assistance too!<br><br>
-  -I'm always looking to connect with people who share similar interests, so feel free to send me a request — I’ll definitely respond!<br><br> 
-  -🖥️  You can Go-through my portfolio at [Here](http://github.com/Anuj-Bisht-dev/portfolio)<br><br>
-  -⚡ Fun fact: I truly appreciate everyone who joins this platform — each of you brings something new and exciting to the community.
+-I'm passionate about web development and always eager to dive into complex projects.<br><br>
+-🧠 Currently, I'm learning more about web development - feel free to help me out, or reach out if you'd like some assistance too!<br><br>
+-I'm always looking to connect with people who share similar interests, so feel free to send me a request - I’ll definitely respond!<br><br> 
+-🖥️  You can Go-through my portfolio at [Here](http://github.com/Anuj-Bisht-dev/portfolio)<br><br>
+-⚡ Fun fact: I truly appreciate everyone who joins this platform - each of you brings something new and exciting to the community.
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
