@@ -26,7 +26,7 @@ $${\color{magenta}Hello,\space Everyone\space I\space am\space Anuj\space Singh\
 
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/Anuj Singh Bisht?t=u6EWBSk2tMaw2TUrf1hM4Q&s=09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<p><a target="_blank" href="https://twitter.com/https://x.com/@anuj_bisht_dev?t=u6EWBSk2tMaw2TUrf1hM4Q&s=09" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/AnujSingBisht" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/anuj_bisht_1/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <b>My GitHub Stats</b>
