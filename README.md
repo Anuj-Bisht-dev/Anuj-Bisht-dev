@@ -34,16 +34,16 @@ src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/publi
 
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/@anuj_bisht_dev?t=u6EWBSk2tMaw2TUrf1hM4Q&s=09" style="display: inline-block;"><img 
-src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/AnujSingBisht" style="display: inline-block;"><img 
-src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/anuj_bisht_1/" style="display: inline-block;"><img 
-src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/anuj_bisht_1/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuj-singh-bisht-124574361/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/bisht_anuj89345) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anujbisht.dev@gmail.com) 
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Anuj-Bisht-dev"><img src="https://github-readme-stats.vercel.app/api?username=Anuj-Bisht-dev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anuj-Bisht-dev's GitHub stats" /></a>
 
 <a href="http://www.github.com/Anuj-Bisht-dev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-Bisht-dev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br><br>
-<a href="https://github.com/Anuj-Bisht-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Bisht-dev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Bisht-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anuj-Bisht-dev" alt="Anuj-Bisht-dev" /></a></p>
