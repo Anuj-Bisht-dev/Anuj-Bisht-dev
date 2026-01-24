@@ -1,5 +1,5 @@
 # 💫 About Me:
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br>
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 $${\color{magenta}Hello,\space Everyone\space I\space am\space Anuj\space Singh\space Bisht}$$
 <br><br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Serif+Text&size=30&duration=4000&pause=500&color=%23%239400d3&width=435&lines=Web+Developer;HTML%2C+CSS%2C++JAVASCRIPT;Eagerly+Learner;C+and+PYTHON;Fond+of+Create+New+Projects)](https://git.io/typing-svg)
