@@ -2,26 +2,26 @@
 
 ![coding](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## 💼 Web Developer | JavaScript | Node.js | Full-Stack Enthusiast
+##  Web Developer | JavaScript | Node.js | Full-Stack Enthusiast
 
 I’m a **web developer** focused on building **clean, scalable, and user-centric web applications**.  
 I enjoy transforming ideas into real-world products using modern web technologies.
 
 ---
 
-## 🧩 About Me
+##  About Me
 - 💻 Strong foundation in **HTML, CSS, JavaScript**
 - ⚙️ Backend development with **Node.js & Express**
 - 🎯 Interested in **Full-Stack (MERN) development**
 - 🧠 Constantly improving problem-solving and system thinking
 - 🤝 Open to collaboration, internships, and junior developer roles
 
-📁 **Portfolio:**  
+ **Portfolio:**  
 👉 https://github.com/Anuj-Bisht-dev/portfolio
 
 ---
 
-## 🛠️ Tech Stack
+##  technologies can used
 
 ### Languages
 <p>
@@ -48,7 +48,7 @@ I enjoy transforming ideas into real-world products using modern web technologie
 
 ---
 
-## 📌 What I’m Working On
+##  What I’m Working On
 - Building **full-stack projects** with real-world use cases
 - Improving **API design & error handling**
 - Writing **clean, maintainable code**
@@ -64,7 +64,7 @@ I enjoy transforming ideas into real-world products using modern web technologie
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anuj-Bisht-dev&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuj-Bisht-dev&layout=compact&theme=dark)
 
