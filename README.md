@@ -7,7 +7,6 @@
 I’m a **web developer** focused on building **clean, scalable, and user-centric web applications**.  
 I enjoy transforming ideas into real-world products using modern web technologies.
 
----
 
 ## About Me
 
@@ -20,7 +19,6 @@ I enjoy transforming ideas into real-world products using modern web technologie
   **Portfolio:**  
   👉 https://github.com/Anuj-Bisht-dev/portfolio
 
----
 
 ## technologies can used
 
@@ -54,7 +52,6 @@ I enjoy transforming ideas into real-world products using modern web technologie
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
----
 
 ## What I’m Working On
 
@@ -63,16 +60,14 @@ I enjoy transforming ideas into real-world products using modern web technologie
 - Writing **clean, maintainable code**
 - Strengthening **data structures & fundamentals**
 
----
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-singh-bisht-124574361/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/anuj_bisht_1/)
-[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/bisht_anuj89345)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-singh-bisht-124574361/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/anuj_bisht_1/)&nbsp;
+[![X](https://img.shields.io/badge/X-black?logo=x&logoColor=white)](https://x.com/bisht_anuj89345)&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anujbisht.dev@gmail.com)
 
----
 
 ## GitHub Activity
 
