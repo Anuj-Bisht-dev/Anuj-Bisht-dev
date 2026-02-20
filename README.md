@@ -71,13 +71,11 @@ I enjoy transforming ideas into real-world products using modern web technologie
 
 ## GitHub Activity
 
-![](https://nirzak-streak-stats.vercel.app/?user=anuj-bisht-dev&theme=dark&hide_border=false)<br/>
+<img alt="Debaloy's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=anuj-bisht-dev&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuj-bisht-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=anuj-bisht-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
 
-### Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=anuj-bisht-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ### Random Dev Quote
 
