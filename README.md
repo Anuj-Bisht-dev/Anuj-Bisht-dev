@@ -10,11 +10,11 @@ I enjoy transforming ideas into real-world products using modern web technologie
 
 ## About Me
 
-- 💻 Strong foundation in **HTML, CSS, JavaScript**
-- ⚙️ Backend development with **Node.js & Express**
-- 🎯 Interested in **Full-Stack development**
-- 🧠 Constantly improving problem-solving and system thinking
-- 🤝 Open to collaboration, internships, and junior developer roles
+- Strong foundation in **HTML, CSS, JavaScript**
+- Backend development with **Node.js & Express**
+- Interested in **Full-Stack development**
+- Constantly improving problem-solving and system thinking
+- Open to collaboration, internships, and junior developer roles
 
   **Portfolio:**  
   👉 https://github.com/Anuj-Bisht-dev/portfolio
