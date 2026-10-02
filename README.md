@@ -2,19 +2,21 @@
 
 ![coding](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## Web Developer | JavaScript | Node.js | Full-Stack Enthusiast
+## Web Developer | JavaScript | TypeScript | Node.js
 
 I’m a **web developer** focused on building **clean, scalable, and user-centric web applications**.  
 I enjoy transforming ideas into real-world products using modern web technologies.
 
+I primarily work with **JavaScript/TypeScript, Node.js, Express and PostgreSQL** with a growing interest in 
+**backend architecture, authentication, databases, and distributed systems.**
 
 ## About Me
-
-- Strong foundation in **HTML, CSS, JavaScript**
-- Backend development with **Node.js & Express**
-- Interested in **Full-Stack development**
-- Constantly improving problem-solving and system thinking
-- Open to collaboration, internships, and junior developer roles
+Building web applications with JavaScript & TypeScript
+Developing backend systems using Node.js & Express
+Working with PostgreSQL, SQL & Drizzle ORM
+Learning and implementing JWT, OAuth 2.0 & OpenID Connect
+Using Docker for development and containerized services
+Working with transactions, ACID properties, concurrency and database consistency
 
   **Portfolio:**  
   👉 https://github.com/Anuj-Bisht-dev/portfolio
